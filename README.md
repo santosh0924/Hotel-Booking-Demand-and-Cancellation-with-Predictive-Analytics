@@ -7,3 +7,5 @@ The data is obtained from Hotel Booking Demand Datasets for the analysis. The da
 
 From all the models tested, it is discovered that the best performing model is Random Forest. The tuned model has around 87% accuracy in predicting hotel cancellation.
 By using the prediction, hotels can act on high cancellation probability and associated revenue losses. Hotels can manage their business accordingly. Better net demand forecasts can be made, overbooking, cancellation policies can be improved and the revenue can be increased. There are not many models available to predict hotel cancellations. Hence, it is recommended for business to use this model and grow their business.
+
+Data source - https://www.kaggle.com/jessemostipak/hotel-booking-demand
